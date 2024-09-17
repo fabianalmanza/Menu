@@ -1,7 +1,9 @@
 
 
 # 🚀 Proyecto Full-Stack: Sistema de Gestión de Informes y Formularios
+## Rellenando los Formularios
 ![Rellenando los Formularios](https://i.imgur.com/MOEv9Om.gif)
+## Generando informe del mes
 ![Generando informe del mes](https://i.imgur.com/2oGPH7k.gif) 
 
 
