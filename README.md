@@ -1,4 +1,9 @@
+
+
 # 🚀 Proyecto Full-Stack: Sistema de Gestión de Informes y Formularios
+![Rellenando los Formularios](https://i.imgur.com/MOEv9Om.gif)
+![Generando informe del mes](https://i.imgur.com/2oGPH7k.gif) 
+
 
 Este proyecto demuestra mis habilidades en el desarrollo full-stack, integrando tecnologías modernas de frontend y backend para crear una aplicación web robusta y escalable.
 
